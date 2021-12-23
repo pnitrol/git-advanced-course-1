@@ -1,6 +1,6 @@
 .idea/*
 !/.idea/workspace.xml
-**/build
+**/build/
 !**/modules/module2/build
 **/modules/**/module[1,3].jar
 
